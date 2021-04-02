@@ -1,4 +1,4 @@
-FROM i386/alpine:3.9
+FROM i386/alpine:3.13.4
 
 ENV TRAEFIK_VERSION v2.0.5
 
